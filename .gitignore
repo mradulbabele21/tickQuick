@@ -15,3 +15,14 @@ yarn-error.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+
+#No junk in GitHub (thanks .gitignore).
+
+#Git is faster & cleaner (aliases).
+
+#Less typing boilerplate (snippets).
+
+#Auto-clean code (ESLint + Prettier).
+
+#Scalable file structure (real-world).
